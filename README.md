@@ -42,7 +42,7 @@ Analyse banking customer and loan data to track key performance indicators (KPIs
 ![Power BI Dashboard](Bank%20Analytics%20Powerbi%20Dashboard.png)
 
 ### Excel
-![Excel Dashboard](Bank%20Analytic%20Excel%20Dashboard.png)
+![Excel Dashboard](<Bank Analytics Excel Dashboard.png>)
 
 ### Tableau
 ![Tableau Dashboard](<Bank Analytics  Tableau  Dashboard.png>)
