@@ -3,7 +3,7 @@ Bank Loan Analysis Dashboard using Power BI, SQL and Excel
 
 An end-to-end banking loan analysis using **SQL, Power BI, Tableau and Excel**. It tracks loan, collection, interest and default KPIs across branches, states, products and time.
 
-![Tableau Dashboard](Bank%20Analytics%20Tableau%20Dashboard.png)
+![Tableau Dashboard](<Bank Analytics  Tableau  Dashboard.png>)
 
 ## Objective
 Analyse banking customer and loan data to track key performance indicators (KPIs) and understand loan performance by branch, state, product, religion, grade and loan status.
